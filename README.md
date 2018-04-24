@@ -8,6 +8,7 @@ At the end of this phase a csv file with all the edges will be exported.
    
 Then the program simulates a number q of query, selecting a random node and asking to solve the query using the Chord algorithm.   
    
+This is an university project and must be taken as-is.   
 For more information please check the [assignment file](https://github.com/daquinoaldo/ChordDHTSimulator/blob/master/Chord%20DHT%20assignment.pdf) and the [relationship](https://github.com/daquinoaldo/ChordDHTSimulator/blob/master/Chord%20DHT%20Relationship.pdf).   
    
 The program is written in Kotlin, you can find a JAR in the [releases](https://github.com/daquinoaldo/ChordDHTSimulator/releases/).
